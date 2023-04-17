@@ -1,4 +1,5 @@
-#Agenda Telefônica Digital em C
+# Agenda Telefônica Digital 
+
 Este é um projeto de uma agenda telefônica digital escrita em linguagem C, que utiliza leitura/escrita de arquivos .txt, alocação dinâmica, ponteiros e funções. O programa permite o registro de novos contatos, a alteração de contatos já registrados, a exclusão de contatos e o uso de uma lixeira para contatos excluídos. Além disso, há uma janela de login e senha (esses obtidos através da leitura do arquivo login.txt) para garantir a segurança da agenda.
 
 ### Funcionalidades
